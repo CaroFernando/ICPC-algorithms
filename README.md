@@ -1,3 +1,3 @@
-# CompetitiveProgCodes
+# Competitive programming algorithms
 
-P3ndejario para ICPC
+ICPC algorithms
